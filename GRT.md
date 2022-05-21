@@ -30,7 +30,7 @@ Key roles of the platform
 
 The Graph Council
 Decentralize its management in the future. 
-Similar to MakereDAO and Compound
+Similar to MakerDAO and Compound
 Plans to create a DAO(Decentralised Autonomous Organisation) to allow core stakeholders to participate in key protocol decisions
 Will also be responsible for how The Graph foundation allocates its native utility tokens GRT
 Its basic functions include grant and ecosystem funding allocation decisions, protocol upgrades, protocol parameters, and other emergency decisions
